@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Chatbot",
-            url: "https://github.com/aelarassi/ios_chat/releases/download/1.1.4/Chatbot.xcframework.zip",
-            checksum: "55e98b3a9ce5400d90ddc01285ffd90d7d0d6d5333aeee2a2b3291010379f90e"
+            url: "https://github.com/aelarassi/ios_chat/releases/download/1.1.5/Chatbot.xcframework.zip",
+            checksum: "d25c985342bd76b3ebae5164d7e85682f6ff6d5f46bdde2e2f4cddf77b10f0b7"
         )
     ]
 )
